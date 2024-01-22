@@ -8,8 +8,8 @@ import java.io.FileOutputStream;
 /**
  * In this project, I am trying to create the most accurate playlist by comparing the song choices of the people in a group we traveled with,
  * and I mostly did this by using the minHeap and maxHeap algorithms.
- * @author Kerem Bozkurt, Student ID: 2020400177
- * @since Date: 13.12.2023
+ * @author Kerem Bozkurt
+ * @since Date: 22.01.2024
  */
 
 public class Project3 {
